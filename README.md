@@ -138,11 +138,7 @@ Hasil evaluasi digunakan untuk memahami kemampuan masing-masing model dalam mela
 
 ## 👤 Author
 
-**[Nama Lengkap]**
+**[IFTAHUL FADHLAN]**
 
 Fresh Graduate — S1 Informatika  
 Focus: Machine Learning & Data Analytics
-
-- LinkedIn: [LinkedIn kamu]
-- Email: [Email kamu]
-- GitHub: [GitHub kamu]
